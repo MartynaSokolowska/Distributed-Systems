@@ -102,16 +102,10 @@ The `RabbitMQ` project enables message exchange between doctors and technicians 
 1. Ensure you have Ray installed:
 
     ```bash
-    pip install ray
+    pip install ray[default]
     ```
 
-2. Navigate to the `Ray` directory.
-3. Run the scripts:
-
-    ```bash
-    python sort.py
-    python calculate_pi.py
-    ```
+2. Run the notebook file
 
 #### RabbitMQ
 
