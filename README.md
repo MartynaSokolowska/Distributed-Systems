@@ -42,6 +42,10 @@ The `RabbitMQ` project enables message exchange between doctors and technicians 
   - `Doctor.java`
   - `Main.java`
   - `Technician.java`
+ 
+### 5. ICE and g-RPC
+
+The `ICE-GRPC` project uses ICE technology to create smarthome with some objects. g-RPC is used in one of the commited files to implementat dynamic calls (NOTE: its not reccomended for usage because of lack of type casting). 
 
 ## Getting Started
 
