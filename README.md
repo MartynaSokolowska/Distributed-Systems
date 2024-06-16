@@ -25,7 +25,7 @@ The `ZooKeeper` project monitors ZooKeeper servers and opens an external graphic
 
 ### 3. Ray
 
-The `Ray` project demonstrates basic tasks in Ray, focusing on concurrency and parallelism, including sorting and calculating Pi.
+The `RayAgents` project demonstrates basic tasks in Ray, focusing on concurrency and parallelism, including sorting and calculating Pi.
 
 - **Directory**: `Ray`
 - **Key Files**:
