@@ -29,8 +29,7 @@ The `RayAgents` project demonstrates basic tasks in Ray, focusing on concurrency
 
 - **Directory**: `Ray`
 - **Key Files**:
-  - `sort.py`
-  - `calculate_pi.py`
+  - `ray.ipynb` 
 
 ### 4. RabbitMQ
 
